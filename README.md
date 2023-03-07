@@ -8,7 +8,7 @@ Construido con 🛠
 
 Handlebars, JSON, Filesystem, Express, Node JS, Javascript y Tailwind CDN.
 
-Autor. Mariela Ochoa
+Autor: Mariela Ochoa
 
 GitHub
 
