@@ -5,7 +5,7 @@
             "nombre": "Pokemon Esmeralda",
             "precio": "49990",
             "stock": "10",
-            "imagen": "https://static.wikia.nocookie.net/espokemon/images/0/02/Caratula_Esmeralda.jpg/revision/latest?cb=20080314232122",
+            "imagen": "https://media.vandal.net/m/3626/pokemon-esmeralda-201429143545_1.jpg",
             "descripcion": "Juego de gameboy de la franquicia Pokemon en su versión Esmeralda",
             "categoria": "Video juegos",
             "fecha_creacion": "12/12/2022"
@@ -13,9 +13,9 @@
         {
             "id": "0002",
             "nombre": "Pokemon Amarillo",
-            "precio": 64990,
-            "stock": 10,
-            "imagen": "https://static.wikia.nocookie.net/espokemon/images/9/95/Pok%C3%A9mon_Amarillo.png/revision/latest?cb=20160715100157",
+            "precio": "64990",
+            "stock": "10",
+            "imagen": "https://media.vandal.net/i/890x890/34531/pokemon-rojoazulamarillo-cv-2016428212419_3.jpg",
             "descripcion": "Juego de gameboy de la franquicia Pokemon en su versión Amarillo",
             "categoria": "Video juegos",
             "fecha_creacion": "12/12/2022"
@@ -23,8 +23,8 @@
         {
             "id": "0003",
             "nombre": "Pokemon Scarlet",
-            "precio": 29990,
-            "stock": 10,
+            "precio": "29990",
+            "stock": "10",
             "imagen": "https://assets-prd.ignimgs.com/2022/08/03/pokemon-scarlet-1659542292648.jpg",
             "descripcion": "Juego de gameboy de la franquicia Pokemon en su versión Scarlet",
             "categoria": "video juegos",
@@ -33,8 +33,8 @@
         {
             "id": "0004",
             "nombre": "Pokemon Violet",
-            "precio": 29990,
-            "stock": 10,
+            "precio": "29990",
+            "stock": "10",
             "imagen": "https://assets-prd.ignimgs.com/2022/08/03/pokemon-violet-1659542326365.jpg",
             "descripcion": "Juego de gameboy de la franquicia Pokemon en su versión Violet",
             "categoria": "Video juegos",
@@ -43,9 +43,9 @@
         {
             "id": "0005",
             "nombre": "Pokemon Rojo",
-            "precio": 34990,
+            "precio": "34990",
             "stock": "10",
-            "imagen": "https://static.wikia.nocookie.net/espokemon/images/d/db/Car%C3%A1tula_de_Pok%C3%A9mon_Rojo.jpg/revision/latest?cb=20160715095430",
+            "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/a/ac/latest/20211108122617/Car%C3%A1tula_de_Rojo_Fuego.png",
             "descripcion": "Juego de gameboy de la franquicia Pokemon en su versión Rojo",
             "categoria": "Video Juegos",
             "fecha_creacion": "12/12/2022"
@@ -55,9 +55,49 @@
             "nombre": "Pokemon Azul",
             "precio": "21990",
             "stock": "10",
-            "imagen": "https://static.wikia.nocookie.net/espokemon/images/9/9d/Car%C3%A1tula_de_Pok%C3%A9mon_Azul.jpg/revision/latest?cb=20160715095744",
+            "imagen": "https://as01.epimg.net/meristation/imagenes/2015/11/13/noticia/1447401600_254350_1532443644_portada_normal.jpg",
             "descripcion": "Juego de gameboy de la franquicia Pokemon en su versión AZul",
             "categoria": "Video Juegos"
+        },
+        {
+            "id": "0007",
+            "nombre": "Cartas Sword",
+            "precio": "89990",
+            "stock": "10",
+            "imagen": "https://falabella.scene7.com/is/image/Falabella/8534740_1?wid=800&hei=800&qlt=70",
+            "descripcion": "Juego de mesa de la franquicia Pokemon en su versión Espada",
+            "categoria": "Juegos de mesa",
+            "fecha_creacion": "12/12/2022"
+        },
+        {
+            "id": "0008",
+            "nombre": "PokeMochila",
+            "precio": "49990",
+            "stock": "10",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_975791-MLC52713349081_122022-O.jpg",
+            "descripcion": "Mochila de pokemon con compartimiento para notebook, estuche y lonchera",
+            "categoria": "Accesorios",
+            "fecha_creacion": "12/12/2022"
+        },
+        {
+            "id": "0009",
+            "nombre": "Gorra Pokemon",
+            "precio": "25000",
+            "stock": "10",
+            "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/024072/02/fnd/CHL/w/1000/h/1000/fmt/png",
+            "descripcion": "Gorra gris motivo pokemon tamaño ajustable",
+            "categoria": "Accesorios",
+            "fecha_creacion": "12/12/2022"
+        },
+        {
+            "id": "0010",
+            "nombre": "Figuras al azar",
+            "precio": "15000",
+            "stock": "40",
+            "imagen": "https://ae01.alicdn.com/kf/H62b0f4647d474a98a0c2529e7945f9d2e/Figuras-de-acci-n-de-Pok-mon-mu-ecos-de-Anime-de-Pikachu-Snorlax-Eevee-Bulbasaur.jpg_Q90.jpg_.webp",
+            "descripcion": "Figuras Pokemon dormidos al azar",
+            "categoria": "Figuras",
+            "fecha_creacion": "12/12/2022"
         }
     ]
 }
