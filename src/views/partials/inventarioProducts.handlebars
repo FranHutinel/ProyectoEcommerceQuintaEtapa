@@ -16,8 +16,8 @@
         </div>
         <div class="grid justify-content content-center m-1">
             <div>
-            <a href="/inventario/{{this.id}}" class="bg-red-200 hover:bg-red-300 px-2 py-1 rounded-full mb-2">Eliminar</a>
-              <a type="submit" href="/buscarproducto/{{this.id}}" class="bg-yellow-200 hover:bg-yellow-300 px-2 py-1 rounded-full ">Actualizar</a>
+            <a onclick="eliminarProducto('{{this.id}}')" class="bg-red-200 hover:bg-red-300 px-2 py-1 rounded-full mb-2">Eliminar</a>
+              <a type="submit" href="/actualizar/{{this.id}}" class="bg-yellow-200 hover:bg-yellow-300 px-2 py-1 rounded-full ">Actualizar</a>
            
             </div>
         </div>
@@ -27,6 +27,6 @@
 
 {{else}}
 <div >
-    <h2 class="text-center text-3xl">Por el momento no tienes productos</h2>
+    <h2 class="text-center text-3xl">por el momento no tienes productos</h2>
 </div>
 {{/if}}

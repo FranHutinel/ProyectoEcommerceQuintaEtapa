@@ -1,6 +1,68 @@
 {
-    "venta" :[{
-        
-        
-    }]
+    "venta": [
+        {
+            "id": "7ecf1a",
+            "fecha": "13-03-2023",
+            "productos": [
+                {
+                    "id": "0003",
+                    "nombre": "Pokemon Scarlet",
+                    "precio": 29990,
+                    "stock": 10,
+                    "imagen": "https://assets-prd.ignimgs.com/2022/08/03/pokemon-scarlet-1659542292648.jpg",
+                    "descripcion": "Juego de gameboy de la franquicia Pokemon en su versión Scarlet",
+                    "categoria": "video juegos",
+                    "fecha_creacion": "12/12/2022",
+                    "cantidad": 1
+                }
+            ],
+            "total": 29990
+        },
+        {
+            "id": "373e93",
+            "fecha": "13-03-2023",
+            "productos": [
+                {
+                    "id": "0005",
+                    "nombre": "Pokemon Rojo",
+                    "precio": "34990",
+                    "stock": "10",
+                    "imagen": "https://static.wikia.nocookie.net/espokemon/images/d/db/Car%C3%A1tula_de_Pok%C3%A9mon_Rojo.jpg/revision/latest?cb=20160715095430",
+                    "descripcion": "Juego de gameboy de la franquicia Pokemon en su versión Rojo",
+                    "categoria": "video juegos",
+                    "fecha_creacion": "12/12/2022",
+                    "cantidad": 1
+                }
+            ],
+            "total": 34990
+        },
+        {
+            "id": "ffe2d8",
+            "fecha": "13-03-2023",
+            "productos": [
+                {
+                    "id": "0002",
+                    "nombre": "Pokemon Amarillo",
+                    "precio": "64990",
+                    "stock": "10",
+                    "imagen": "https://static.wikia.nocookie.net/espokemon/images/9/95/Pok%C3%A9mon_Amarillo.png/revision/latest?cb=20160715100157",
+                    "descripcion": "Juego de gameboy de la franquicia Pokemon en su versión Amarillo",
+                    "categoria": "video juegos",
+                    "fecha_creacion": "12/12/2022",
+                    "cantidad": 1
+                },
+                {
+                    "id": "0006",
+                    "nombre": "Pokemon Azul",
+                    "precio": "21990",
+                    "stock": "10",
+                    "imagen": "https://static.wikia.nocookie.net/espokemon/images/9/9d/Car%C3%A1tula_de_Pok%C3%A9mon_Azul.jpg/revision/latest?cb=20160715095744",
+                    "descripcion": "Juego de gameboy de la franquicia Pokemon en su versión AZul",
+                    "categoria": "video juegos",
+                    "cantidad": 1
+                }
+            ],
+            "total": 21990
+        }
+    ]
 }
