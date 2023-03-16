@@ -13,3 +13,6 @@ Autor: Mariela Ochoa
 GitHub
 
 https://github.com/FranHutinel/ProyectoEcommerceQuintaEtapa.git
+
+npm run dev
+http://localhost:3000/
